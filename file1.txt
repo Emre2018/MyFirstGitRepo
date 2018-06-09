@@ -1,3 +1,7 @@
 This is the first line. Hello Earth!
 
 I am from Jupiter. I am an Astronaut.
+
+I have a friend from Mars. He is also an Astronaut.
+
+Since we are from different planets people on Earth assume that we are alien.
